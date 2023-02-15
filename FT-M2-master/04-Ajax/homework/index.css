@@ -1,0 +1,18 @@
+h2  {
+    font-size : 50pt;
+    font-family : Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight : normal;
+    color: rgb(118, 0, 110);
+}
+button {
+    position: center;
+    font-size : 20pt;
+    font-family : 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align : center;
+    background-color : rgb(65, 255, 255);
+   }
+   
+
+   
+
+    
